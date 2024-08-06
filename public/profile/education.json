@@ -1,19 +1,31 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
+            "title": "Dec 2021 - May 2025",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "cardSubtitle":"National Institute Of Technology, Jamshedpur",
+            "cardDetailedText": "CGPA - 7.4",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/nit js.jpg"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Apr 2021",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":" Gurukulam School, Dhanbad",
+            "cardDetailedText": "Marks - 80.2%",
+            "icon": {
+                "src":"images/education/gurkulam.jpg"
+            }
+        },
+        {
+            "title": "Apr 2019",
+            "cardTitle": "Matriculation",
+            "cardSubtitle":"DE Nobili School CMRI, Dhanbad",
+            "cardDetailedText": "Marks - 95%",
+            "icon":{
+                "src":"images/education/denobili.png"
+            }
         }
     ]
 }
